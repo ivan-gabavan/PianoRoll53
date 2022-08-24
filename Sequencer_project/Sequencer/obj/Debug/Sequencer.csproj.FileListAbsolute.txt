@@ -1,0 +1,17 @@
+C:\Users\hunte\source\repos\Sequencer\Sequencer\bin\Debug\Sequencer.exe.config
+C:\Users\hunte\source\repos\Sequencer\Sequencer\bin\Debug\Sequencer.exe
+C:\Users\hunte\source\repos\Sequencer\Sequencer\bin\Debug\Sequencer.pdb
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.csprojAssemblyReference.cache
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\MainWindow.baml
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\MainWindow.g.cs
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\App.g.cs
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer_MarkupCompile.cache
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.g.resources
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.Properties.Resources.resources
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.csproj.GenerateResource.cache
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.exe
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.pdb
+C:\Users\hunte\source\repos\Sequencer\Sequencer\bin\Debug\NAudio.dll
+C:\Users\hunte\source\repos\Sequencer\Sequencer\bin\Debug\NAudio.xml
+C:\Users\hunte\source\repos\Sequencer\Sequencer\obj\Debug\Sequencer.csproj.CopyComplete

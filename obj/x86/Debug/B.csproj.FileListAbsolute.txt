@@ -1,0 +1,14 @@
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.csprojAssemblyReference.cache
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.GUI.EditParametersForm.resources
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.GUI.MainForm.resources
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.GUI.VSTForm.resources
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.csproj.GenerateResource.cache
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.csproj.CoreCompileInputs.cache
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\PianoRoll53\bin\Debug\MidiVstTest.exe.config
+C:\Users\Koldun\Desktop\PianoRoll53\bin\Debug\MidiVstTest.exe
+C:\Users\Koldun\Desktop\PianoRoll53\bin\Debug\MidiVstTest.pdb
+C:\Users\Koldun\Desktop\PianoRoll53\bin\Debug\PianoRoll.dll
+C:\Users\Koldun\Desktop\PianoRoll53\bin\Debug\PianoRoll.pdb
+C:\Users\Koldun\Desktop\PianoRoll53\obj\x86\Debug\B.csproj.CopyComplete
